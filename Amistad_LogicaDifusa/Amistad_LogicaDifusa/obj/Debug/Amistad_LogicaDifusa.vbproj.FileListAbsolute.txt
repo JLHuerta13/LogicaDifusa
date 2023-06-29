@@ -1,0 +1,29 @@
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.vbproj.AssemblyReference.cache
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.vbproj.SuggestedBindingRedirects.cache
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.ingresarIndividuos.resources
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.form_inicio.resources
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.Resources.resources
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.vbproj.GenerateResource.cache
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.vbproj.CoreCompileInputs.cache
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\bin\Debug\Amistad_LogicaDifusa.exe.config
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\bin\Debug\Amistad_LogicaDifusa.exe
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\bin\Debug\Amistad_LogicaDifusa.pdb
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\bin\Debug\Amistad_LogicaDifusa.xml
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.exe
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.xml
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.pdb
+D:\Trabajos UAQ\Inteligencia Artificial\proyecto_final\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.comparaciones.resources
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\bin\Debug\Amistad_LogicaDifusa.exe.config
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\bin\Debug\Amistad_LogicaDifusa.exe
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\bin\Debug\Amistad_LogicaDifusa.pdb
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\bin\Debug\Amistad_LogicaDifusa.xml
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.vbproj.AssemblyReference.cache
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.comparaciones.resources
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.ingresarIndividuos.resources
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.form_inicio.resources
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.Resources.resources
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.vbproj.GenerateResource.cache
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.vbproj.CoreCompileInputs.cache
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.exe
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.xml
+C:\Users\Danie\source\repos\Amistad_LogicaDifusa\Amistad_LogicaDifusa\obj\Debug\Amistad_LogicaDifusa.pdb
